@@ -1,0 +1,72 @@
+body{
+    background-image: url(erdo.jpg);
+    color:#002200;
+}
+h1,h2	{
+text-align: center;
+color: green;
+}
+span	{
+font-weight: 	bold;
+color: green;	
+}
+span.alahuzas	{
+	font-weight:normal;
+    text-decoration: underline;
+    color: green;
+}
+#jobbra{
+   float: right;
+  text-align: center; 
+  color: green;  
+}
+#jobbra img{
+    width: 120px;
+    color: green;
+}
+.kepek{
+    width: 20%;
+    text-align: center;
+    color: green;
+}
+div#kozep{
+  margin: 0 auto 0 auto;
+   width: 800px;
+   color: green;
+}
+div#kepkozep{
+  text-align: center;
+  color: green;
+}
+table{
+  
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    color: green;
+}
+th,td{
+      border: 1px solid green;
+     border-collapse: collapse;
+}
+.jobbraigazit{
+    padding-left: 40px;
+    padding-right: 0px;
+    margin-right: 0px;
+    color: green;
+}
+.tablakozep{ 
+    margin: 0 auto 0 auto;
+    color: green;
+}
+#szovegkozep{    
+    text-align: center;
+    color: green;
+}
+#vonal{    
+    height: 10px;
+    background-color: green;
+}
+a:link{
+    color: rgb(3, 175, 3);
+}
